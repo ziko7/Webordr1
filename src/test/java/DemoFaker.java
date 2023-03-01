@@ -9,6 +9,6 @@ public class DemoFaker {
         System.out.println(faker.address().firstName());
         System.out.println(faker.address().lastName());
         System.out.println(faker.address().streetAddress());
-    }
 
-}
+
+}}

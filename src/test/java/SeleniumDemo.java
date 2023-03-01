@@ -111,21 +111,7 @@ if (textlogin.equals(expectedtext)){
         SeleniumDemo.logout();
 
 
-       // driver.close();
+        driver.close();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+}
 }
